@@ -1,0 +1,13 @@
+./magazin.cpp:13:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+./magazin.cpp:27:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+./magazin.cpp:29:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./magazin.cpp:33:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./magazin.cpp:33:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+./magazin.cpp:89:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+./magazin.cpp:98:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+Done processing ./_utils/verif.cpp
+Done processing ./ferate.cpp
+Done processing ./magazin.cpp
+Done processing ./supercomputer.cpp
+Done processing ./teleportare.cpp
+Total errors found: 7
