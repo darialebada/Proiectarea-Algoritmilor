@@ -2,7 +2,7 @@
 # Proiectarea Algoritmilor - tema1
 
 
-## Task1 - Feribot
+### Task1 - Feribot
 - Metoda divide et impera cu greedy
 
 Pentru rezolvarea acestei probleme am ales o metoda asemanatoare cautarii binare.
@@ -20,7 +20,7 @@ conditiile.
 - Complexitatea algoritmului este O(n*logn), unde n este numarul de masini.
 
 
-## Task2 - Nostory
+### Task2 - Nostory
 - Metoda Greedy
 
 2.1 Avand la dispozitie un numar nelimitat de mutari, este suficient sa concatenez
@@ -37,7 +37,7 @@ din vectorul added cu primele k valori maxime din not_added.
 complexitate.
 
 
-## Task3 - Sushi
+### Task3 - Sushi
 - Programare dinamica
 
 3.1 Am creat un vector in care am adaugat suma notelor pentru fiecare tip de sushi (un fel
@@ -65,7 +65,7 @@ maxim numar_maxim_platouri - 1;
 maxima pe care vor sa o plateasca, iar K reprezinta numarul maxim de platouri (numarul de prieteni).
 
 
-## Task4 - Semnale
+### Task4 - Semnale
 
 - Algoritmul pentru calculul combinarilor foloseste formula: C(n, k) = (n * (n - 1) * ... * (n - k + 1)) / (k!).
 Datorita simetriei, ii pot da lui k valoarea minima dintre k si n - k. Deoarece nu pot aplica modulo pe
@@ -86,7 +86,7 @@ rezultatul anterior cu combinari de num luate cate grupari de 11 am. Complexitat
 este numarul de 1.
 
 
-## Bonus - BadGPT
+### Bonus - BadGPT
 Numarul de combinari posibile pentru o grupare cu n sau u se poate calcula cu ajutorul sirului
 lui Fibonacci. Iau fiecare aparitie a unei litere n sau u, calculez numarul de combinari si
 inmultesc rezultatele.
@@ -100,7 +100,7 @@ tinand cont de urmatoarele proprietati:
 Algoritmul se repeta pentru fiecare aparitie in sir a unei litere "n" sau "u".
 
 
-## Referinte
+### Referinte
 Task3:
 - https://www.javatpoint.com/0-1-knapsack-problem -> explicatii problema rucsacului
 Task4:
