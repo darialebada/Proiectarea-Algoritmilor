@@ -1,7 +1,7 @@
 ## Lebada Daria-Cristiana, 323CA
 # PA - Tema2 - Gigel, mereu ocupat -
 
-# Task 1 - Supercomputer
+## Task 1 - Supercomputer
 Pentru rezolvarea problemei am pornit de la algoritmul lui Khan de sortare topologica
 (l-am implementat dupa rezolvarea laboratorului 6 oferita de catre echipa de PA).
 Folosec un vector in_degree in care memorez gradele interne ale fiecarui nod. Folosesc
@@ -16,7 +16,7 @@ apoi ii vizitez vecinii. Adaug noduri din coada 1 pana se goleste, apoi schimp v
 si incep sa adaug elemente din coada 2. La final calculez numarul de context switch-uri.
 - Complexitatea temporala: O(E + V), unde E reprezinta numarul de muchii, iar V numarul de noduri.
 
-# Task 4 - Magazin
+## Task 4 - Magazin
 Dupa ce citesc datele de la intrare, retin intr-un vector ordinea dupa dfs. Algoritmul de dfs este
 implementat dupa rezolvarea laboratorului 6 si dupa pseudocodul de pe ocw (partea cu timestamp),
 dar fara a verifica daca un vecin a mai fost vizitat (in cerinta se spune ca fiecare depozit poate
